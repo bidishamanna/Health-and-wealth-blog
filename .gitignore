@@ -1,0 +1,22 @@
+# Byte-compiled / cache files
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Database (only if using SQLite — safe to keep here even if unused)
+*.sqlite3
+
+# Log files
+*.log
+
+# macOS
+.DS_Store
+
+# VSCode settings (optional)
+.vscode/
+
+# Django static/media (if generated at runtime)
+staticfiles/
+media/
